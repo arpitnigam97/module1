@@ -1,0 +1,47 @@
+body{
+	/*background-color: black;*/
+	font-color: white;
+}
+.navbar-header{
+	height: 60px;
+	position: relative;
+}
+#heading{
+	font-color:black;
+	font-weight: bold;
+	margin: 0 auto 0 0;
+}
+#nav-list{
+	text-align: center;
+	font-color: black;
+}
+#our-menu{
+	text-align: center;
+	font-color: white;
+}
+section{
+		
+	background-color: #f69e7b;
+	text-align: center;
+	border-top: 3px solid black;
+	border-right: 3px solid black;
+	border-left:3px solid black ;
+
+}
+p{
+	width: 90%
+	background-color:#84a9ac;
+	text-align: justify;
+	border: 3px solid black;	
+}
+span{
+	color: black;
+	font-size: 25px;
+}
+
+#footer{
+	text-align: center;
+	font-size: 16px;
+	margin-top: 50px;
+	opacity: 80%;
+}
